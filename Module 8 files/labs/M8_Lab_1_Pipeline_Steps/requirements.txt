@@ -1,0 +1,3 @@
+# Build the pipeline from a SageMaker notebook (the step CONTAINERS bring their own deps).
+sagemaker>=2.200,<3
+boto3>=1.34
